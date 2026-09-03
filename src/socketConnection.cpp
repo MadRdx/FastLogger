@@ -6,8 +6,11 @@
 
 
 
+class SocketConnection {
 
 
+
+};
 
 
 
